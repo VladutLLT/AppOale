@@ -3,6 +3,7 @@ Aplicatie simpla de organizare pentru oale de otel folosite in fluxul tehnologic
 
 # Dependente/Dependencies:
 -gtk3 (gtk3-3.24.38 last used)
+
 -libxlsxwriter (libxlsxwriter-1.1.5-1 last used)
 
 Instructiuni pentru instalarea bibliotecii gtk3 pot fi gasite aici /Instructions for installing gtk3 can be found here: https://www.gtk.org/docs/installations/.
